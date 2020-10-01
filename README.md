@@ -6,3 +6,5 @@ I added a calender.
 I added Graphic Design Work to the page to personalize.
 * Certain links are not tied to my profile EXCEPT for Github.
 * Added LinkedIn profile links.
+* Changed Projects --> HOMEWORK.
+* Added screenshots.
