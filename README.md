@@ -8,3 +8,4 @@ I added Graphic Design Work to the page to personalize.
 * Added LinkedIn profile links.
 * Changed Projects --> HOMEWORK.
 * Added screenshots.
+* Need to add links to the homeworks *
